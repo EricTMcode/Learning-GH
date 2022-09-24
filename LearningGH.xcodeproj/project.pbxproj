@@ -55,9 +55,9 @@
 			children = (
 				07F1804628DF2FEE00EC9C9D /* LearningGHApp.swift */,
 				07F1804828DF2FEE00EC9C9D /* ContentView.swift */,
+				07F1805428DF33CE00EC9C9D /* MyModel.swift */,
 				07F1804A28DF2FEF00EC9C9D /* Assets.xcassets */,
 				07F1804C28DF2FEF00EC9C9D /* Preview Content */,
-				07F1805428DF33CE00EC9C9D /* MyModel.swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
